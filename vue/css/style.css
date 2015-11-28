@@ -1,0 +1,19 @@
+html,body{
+    background: #101010;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+#accueil img{
+    width: 60vw;
+    height: auto;
+    display: block;
+    margin: 20vh auto 0 auto;
+}
+#accueil p {
+    text-align: center;
+    font-family: Papyrus, fantasy;
+    font-size: 3em;
+    color: #3f4141;
+}
