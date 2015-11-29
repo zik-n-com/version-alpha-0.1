@@ -1,0 +1,190 @@
+/* Page Presentation */
+
+.container-fluid
+{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.section-presentation>div
+{
+    height: 100vh;
+}
+#presentation{
+    max-width: 100vw;
+    display: flex;
+    overflow: hidden;
+}
+#presentation .col {
+    width: calc(95vw/3);
+    text-align: center;
+    position: relative;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 200;
+}
+#presentation .col:hover{
+    background: #1f2527;
+}
+#presentation .titreSection {
+    height: 18vh;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+    padding: 0;
+}
+#presentation .titreSection p{
+    font-family: 'Bauhaus 93', fantasy;
+    font-size: 5vh;
+    text-align:center;
+    margin: 0;
+}
+#presentation .titreFiltre {
+    width: 100%;
+    height: 100%;
+    background: rgba(26,26,26,.7);
+    position: absolute;
+    bottom: 0;
+    z-index: 1000;
+    -moz-transition: all 1s linear;
+    -o-transition: all 1s linear;
+    -webkit-transition: all 1s linear;
+    transition: all 1s linear;
+}
+#presentation .col1:hover .titreFiltre,
+#presentation .col2:hover .titreFiltre,
+#presentation .col3:hover .titreFiltre{
+    display: none;
+}
+#presentation .col1 .titreSection{
+    color: #E03A67;
+}
+#presentation .col2 .titreSection{
+    color: #4AADC7;
+}
+#presentation .col3 .titreSection{
+    color: #73A71A;
+}
+#presentation .col1:hover .titreSection{
+    background: #552331;
+}
+#presentation .col2:hover .titreSection{
+    background: #28464e;
+}
+#presentation .col3:hover .titreSection{
+    background: #2B351A;
+}
+#presentation .animcol {
+    width: 100%;
+    height: 82vh;
+    position: absolute;
+    top: 0;
+    -moz-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    -webkit-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+}
+#presentation .col1 .animcol {
+    background: url('../images/casque2.png') no-repeat center center;
+    background-size: 50%;
+}
+#presentation .col2 .animcol{
+    background: url('../images/icone-asso2.png') no-repeat center center;
+}
+#presentation .col3 .animcol{
+    background: url('../images/icone-entreprises-fond-gris.png') no-repeat center center;
+}
+#presentation .col1:hover .animcol {
+    background: url('../images/casque.png') no-repeat center center;
+    background-size: 50%;
+}
+#presentation .col2:hover .animcol{
+    background: url('../images/icone-asso.png') no-repeat center center;
+}
+#presentation .col3:hover .animcol{
+    background: url('../images/icone-entreprises.png') no-repeat center center;
+}
+
+/*
+    animBall
+*/
+#presentation .animBall svg {
+    width: 4vw;
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+#presentation .col1:hover .animBall svg,
+#presentation .col2:hover .animBall svg,
+#presentation .col3:hover .animBall svg {
+    -moz-animation: Ball 600ms linear forwards;
+    -o-animation: Ball 600ms linear forwards;
+    -webkit-animation: Ball 600ms linear forwards;
+    animation: Ball 600ms linear forwards;
+}
+#presentation .col1:hover .animBall svg .st3,
+#presentation .col2:hover .animBall svg .st3,
+#presentation .col3:hover .animBall svg .st3 {
+    -moz-animation: okBall 200ms linear 600ms forwards;
+    -o-animation: okBall 200ms linear 600ms forwards;
+    -webkit-animation: okBall 200ms linear 600ms forwards;
+    animation: okBall 200ms linear 600ms forwards;
+}
+
+@-moz-keyframes Ball{
+    0%{    }
+    100% {
+        -webkit-transform: rotate(0);
+        -moz-transform: rotate(0);
+        -ms-transform: rotate(0);
+        -o-transform: rotate(0);
+        transform: rotate(0);
+    }
+}
+@-webkit-keyframes Ball{
+    0%{
+    }
+    100% {
+        -webkit-transform: rotate(0);
+        -o-transform: rotate(0);
+    }
+}
+@keyframes Ball{
+    0%{}
+    100% {
+        -webkit-transform: rotate(0);
+        -moz-transform: rotate(0);
+        -ms-transform: rotate(0);
+        -o-transform: rotate(0);
+        transform: rotate(0);
+    }
+}
+
+@-moz-keyframes okBall{
+    from{  }
+    to{
+        opacity: 1;
+    }
+}
+@-webkit-keyframes okBall{
+    from{
+    }
+    to{
+        opacity: 1;
+    }
+}
+@keyframes okBall{
+    from{  }
+    to{
+        opacity: 1;
+    }
+}
