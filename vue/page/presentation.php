@@ -1,6 +1,9 @@
-<?php include('header.inc.php'); ?>
+<?php
+include('header.inc.php');
+include('menu.php');
+?>
 
-    <section class="row section-presentation" id="presentation">
+    <section class="col-md-12 section-presentation" id="presentation">
         <div class="col col1">
             <a href="#">
                 <div class="animcol"></div>
