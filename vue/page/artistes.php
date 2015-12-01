@@ -32,9 +32,5 @@
 
         </div>
 
-        <div class="tab-pane active" id="pack1"><p>Texte pack roadies</p></div>
-        <div class="tab-pane" id="pack2"><p>Texte pack groupies</p></div>
-        <div class="tab-pane" id="pack3"><p>Texte pack goodies</p></div>
-
     </div>
 </div>
