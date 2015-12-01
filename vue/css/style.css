@@ -41,6 +41,7 @@ a{
     position: absolute;
     background: #1F2527;
     height: 100vh;
+    display: none;
 }
 .boutonMenu
 {
@@ -90,7 +91,7 @@ a{
     color: #3f4141;
 }
 
-<<<<<<< HEAD
+
 /********************Page Artistes********CHAMPY*******/
 
                     /*Onglets*/
@@ -233,14 +234,4 @@ a{
 }
 
 /********************FIN Page Entreprises********CHAMPY*******/
-=======
-/***
-** Page Artistes
-***/
 
-#pack1, #pack2, #pack3 a ,li
-{
-    color: #2aabd2;
-}
-/* Menu Lateral */
->>>>>>> refs/remotes/origin/master

@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="fr">
-<<<<<<< HEAD
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Zik'N'Com. Création de site internet pour les artistes.">
@@ -12,7 +11,7 @@
     <title></title>
 </head>
 <body class="container-fluid">
-=======
+
     <head>
         <meta charset="UTF-8">
         <meta name="description" content="Zik'N'Com. Création de site internet pour les artistes.">
@@ -27,4 +26,4 @@
     <body>
         <?php include('../page/menu.php'); ?>
         <main id="siteContent">
->>>>>>> refs/remotes/origin/master
+
