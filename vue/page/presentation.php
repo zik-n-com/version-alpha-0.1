@@ -1,8 +1,8 @@
 <?php
 include('header.inc.php');
-include('menu.php');
-?>
 
+?>
+<div class="row">
     <section class="col-md-12 section-presentation" id="presentation">
         <div class="col col1">
             <a href="#">
@@ -43,4 +43,5 @@ include('menu.php');
             </a>
         </div>
     </section>
+</div>
 
