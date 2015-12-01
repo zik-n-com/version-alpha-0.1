@@ -4,8 +4,11 @@
     <list default="true" id="bcf7a791-400d-445a-8ca1-4b77e522223e" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/js/jquerry.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/page/artistes.php" />
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/page/associations.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vue/page/entreprises.php" />
+=======
+>>>>>>> refs/remotes/origin/master
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/css/style.css" afterPath="$PROJECT_DIR$/vue/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vue/page/header.inc.php" afterPath="$PROJECT_DIR$/vue/page/header.inc.php" />
@@ -29,6 +32,7 @@
     <favorites_list name="version-alpha-0.1" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <splitter split-orientation="horizontal" split-proportion="0.51074916">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -57,6 +61,16 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="-9.931034">
                   <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+=======
+    <splitter split-orientation="horizontal" split-proportion="0.6183355">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="artistes.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vue/page/artistes.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.45436105">
+                  <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+>>>>>>> refs/remotes/origin/master
                   <folding />
                 </state>
               </provider>
@@ -65,7 +79,11 @@
           <file leaf-file-name="header.inc.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/vue/page/header.inc.php">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state vertical-scroll-proportion="0.0">
+=======
+                <state vertical-scroll-proportion="-5.5172415">
+>>>>>>> refs/remotes/origin/master
                   <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
                   <folding />
                 </state>
@@ -75,6 +93,7 @@
         </leaf>
       </split-first>
       <split-second>
+<<<<<<< HEAD
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/vue/css/style.css">
@@ -97,6 +116,15 @@
                     <element signature="e#2542#2565#0" expanded="false" />
                     <element signature="e#2617#2848#0" expanded="false" />
                   </folding>
+=======
+        <leaf>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vue/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.71399593">
+                  <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                  <folding />
+>>>>>>> refs/remotes/origin/master
                 </state>
               </provider>
             </entry>
@@ -121,6 +149,11 @@
         <option value="$PROJECT_DIR$/vue/page/balle.php" />
         <option value="$PROJECT_DIR$/vue/page/presentation.php" />
         <option value="$PROJECT_DIR$/vue/css/stylePresentation.css" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/vue/css/style.css" />
+        <option value="$PROJECT_DIR$/vue/page/artistes.php" />
+>>>>>>> refs/remotes/origin/master
         <option value="$PROJECT_DIR$/vue/js/jquerry.min.js" />
         <option value="$PROJECT_DIR$/vue/page/header.inc.php" />
         <option value="$PROJECT_DIR$/vue/page/association.php" />
@@ -176,48 +209,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="version-alpha-0.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="version-alpha-0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="version-alpha-0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="version-alpha-0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="version-alpha-0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="version-alpha-0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="version-alpha-0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -293,8 +284,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
     <editor active="true" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="false" />
+>>>>>>> refs/remotes/origin/master
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18176973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -411,6 +407,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/vue/page/presentation.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -422,6 +419,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12981744">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/vue/css/stylePresentation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29208925">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/page/presentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/page/accueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12981744">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+>>>>>>> refs/remotes/origin/master
         </state>
       </provider>
     </entry>
@@ -447,14 +467,22 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/vue/css/stylePresentation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.55172414">
           <caret line="25" column="28" selection-start-line="22" selection-start-column="4" selection-end-line="25" selection-end-column="28" />
+=======
+    <entry file="file://$PROJECT_DIR$/vue/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71399593">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+>>>>>>> refs/remotes/origin/master
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/vue/page/associations.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.137931">
@@ -490,14 +518,37 @@
             <element signature="e#2405#2459#0" expanded="false" />
             <element signature="e#2542#2565#0" expanded="false" />
             <element signature="e#2617#2848#0" expanded="false" />
+=======
+    <entry file="file://$PROJECT_DIR$/vue/js/jquerry.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12610838">
+          <caret line="1" column="290" selection-start-line="1" selection-start-column="290" selection-end-line="1" selection-end-column="290" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+>>>>>>> refs/remotes/origin/master
           </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/vue/page/artistes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38945234">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+=======
+    <entry file="file://$PROJECT_DIR$/vue/page/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5172415">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vue/page/artistes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38945234">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.45436105">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+>>>>>>> refs/remotes/origin/master
           <folding />
         </state>
       </provider>

@@ -1,6 +1,9 @@
-<?php include('header.inc.php'); ?>
+<?php
+include('header.inc.php');
 
-    <section class="row section-presentation" id="presentation">
+?>
+<div class="row">
+    <section class="col-md-12 section-presentation" id="presentation">
         <div class="col col1">
             <a href="#">
                 <div class="animcol"></div>
@@ -40,4 +43,5 @@
             </a>
         </div>
     </section>
+</div>
 
