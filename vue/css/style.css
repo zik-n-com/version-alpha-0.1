@@ -1,10 +1,82 @@
+/***
+** Généralité
+**/
+*{
+    margin: 0;
+    padding: 0;
+}
 html,body{
     background: #1a1a1a;
+    box-sizing: border-box;
+    display: flex;
 }
 a{
     color: inherit;
     text-decoration: none;
 }
+.row{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+/***
+** Menu Gauche
+**/
+#menuLeft{
+    float: left;
+    position: relative;
+    height: 100vh;
+    background: #3f4141;
+    width: 5vw;
+    box-sizing: border-box;
+    border: 0;
+}
+#hamburger{
+    width: 100%;
+    margin: 0;
+    margin-top: 2em;
+}
+#navPrincipale{
+    z-index: 15000;
+    position: absolute;
+    background: #1F2527;
+    height: 100vh;
+}
+.boutonMenu
+{
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 5em;
+    line-height: 5em;
+    margin: 0 auto;
+}
+.socialNetwork{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+}
+.boutonMenu i
+{
+    color: #4AADC7;
+    transition: all 250ms ease;
+}
+.boutonMenu:hover i
+{
+    color: #73A71A;
+}
+
+/***
+** Contenu principal
+**/
+#siteContent{
+    float: left;
+    width: 95vw;
+    border: 0;
+    box-sizing: border-box;
+}
+
 #accueil img{
     width: 60vw;
     height: auto;
@@ -18,10 +90,12 @@ a{
     color: #3f4141;
 }
 
-/*Page Artistes*/
-
+/***
+** Page Artistes
+***/
 
 #pack1, #pack2, #pack3 a ,li
 {
     color: #2aabd2;
 }
+/* Menu Lateral */

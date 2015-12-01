@@ -1,12 +1,5 @@
 /* Page Presentation */
 
-.container-fluid
-{
-    height: 100%;
-    padding: 0;
-    margin: 0;
-}
-
 .section-presentation>div
 {
     height: 100vh;
@@ -15,6 +8,8 @@
     max-width: 100vw;
     display: flex;
     overflow: hidden;
+    margin:0;
+    padding: 0;
 }
 #presentation .col {
     width: calc(95vw/3);
