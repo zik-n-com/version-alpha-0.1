@@ -1,5 +1,6 @@
 <?php include('header.inc.php'); ?>
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <div class="col-md-offset-1 col-md-10 col-md-offset-1" id="page-artiste">
@@ -37,3 +38,10 @@
 </div>
 =======
 >>>>>>> origin/master
+=======
+<div id="page-artistes" class="jumbotron">
+    <h1>artistes</h1>
+    <p></p>
+</div>
+
+>>>>>>> refs/remotes/origin/champy
