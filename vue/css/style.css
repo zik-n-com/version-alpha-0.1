@@ -41,6 +41,9 @@ a{
     position: absolute;
     background: #1F2527;
     height: 100vh;
+<<<<<<< HEAD
+    display: none;
+=======
     font-size: 2em;
     padding: 0 5px;
 }
@@ -49,6 +52,7 @@ a{
 }
 #contentNav li a{
     text-wrap: none;
+>>>>>>> origin/jeep
 }
 .boutonMenu
 {
@@ -158,12 +162,154 @@ a{
     color: #3f4141;
 }
 
-/***
-** Page Artistes
-***/
 
-#pack1, #pack2, #pack3 a ,li
+/********************Page Artistes********CHAMPY*******/
+
+<<<<<<< HEAD
+
+=======
+                    /*Onglets*/
+#page-artiste .nav a
+{
+    height: 7vh;
+    padding: 0;
+    line-height: 7vh;
+    margin-bottom: 1em;
+
+    color: #562431;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#page-artiste .nav a:hover
+{
+    color: #E03A67;
+    background-color: #562431;
+}
+
+#page-artiste .nav a:focus
+{
+    color: #E03A67;
+    background-color: #562431;
+}
+
+#page-artiste #pack1, #page-artiste #pack2, #page-artiste #pack3, a ,li
 {
     color: #2aabd2;
 }
 
+                    /*Content Onglets*/
+#page-artiste p
+{
+    text-align: left;
+    color: white;
+}
+
+#page-artiste .tab-content
+{
+    border: solid 5px #1F2527;
+    height: 60vh;
+    width: 81.5vw;
+    margin: 0 auto;
+    text-align: center;
+    background: url("../images/casque2.png") no-repeat right center;
+    background-size: 30%;
+}
+
+
+/********************FIN Page Artistes********CHAMPY*******/
+
+/********************Page Associations********CHAMPY*******/
+
+/*Onglets*/
+#page-asso .nav a
+{
+    height: 7vh;
+    padding: 0;
+    line-height: 7vh;
+    margin-bottom: 1em;
+    color: #28464e;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#page-asso .nav a:hover
+{
+    color: #4AADC7;
+    background-color: #28464e;
+}
+
+#page-asso .nav a:focus
+{
+    color: #4AADC7;
+    background-color: #28464e;
+}
+
+#page-asso #pack1, #page-asso #pack2, #page-asso #pack3, a ,li
+{
+    color: #2aabd2;
+}
+
+<<<<<<< HEAD
+/*Content Onglets*/
+#page-asso .tab-content
+{
+    border: solid 5px #1F2527;
+    height: 60vh;
+    width: 81.5vw;
+    margin: 0 auto;
+    text-align: center;
+    background: url("../images/icone-asso2.png") no-repeat center center;
+    background-size: 30%;
+}
+
+/********************FIN Page Associations********CHAMPY*******/
+
+/********************Page Entreprises********CHAMPY*******/
+
+/*Onglets*/
+#page-entreprise .nav a
+{
+    height: 7vh;
+    padding: 0;
+    line-height: 7vh;
+    margin-bottom: 1em;
+    color: #2B351A;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#page-entreprise .nav a:hover
+{
+    color: #73A71A;
+    background-color: #2B351A;
+}
+
+#page-entreprise .nav a:focus
+{
+    color: #73A71A;
+    background-color: #2B351A;
+}
+
+#page-entreprise #pack1, #page-entreprise #pack2, #page-entreprise #pack3, a ,li
+{
+    color: #2aabd2;
+}
+
+/*Content Onglets*/
+#page-entreprise .tab-content
+{
+    border: solid 5px #1F2527;
+    height: 60vh;
+    width: 81.5vw;
+    margin: 0 auto;
+    text-align: center;
+    background: url("../images/icone-entreprises-fond-gris.png") no-repeat center center;
+    background-size: 30%;
+}
+
+/********************FIN Page Entreprises********CHAMPY*******/
+
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/champy
