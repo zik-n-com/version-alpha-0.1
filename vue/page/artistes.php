@@ -1,6 +1,7 @@
 <?php include('header.inc.php'); ?>
 
 
+<<<<<<< HEAD
 <div class="col-md-offset-1 col-md-10 col-md-offset-1" id="page-artiste">
 
 <div class="col-lg-12">
@@ -34,3 +35,5 @@
 
     </div>
 </div>
+=======
+>>>>>>> origin/master
