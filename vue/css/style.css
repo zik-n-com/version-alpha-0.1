@@ -41,7 +41,12 @@ a{
     position: absolute;
     background: #1F2527;
     height: 100vh;
+<<<<<<< HEAD
     display: none;
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/champy
     font-size: 2em;
     padding: 0 5px;
 }
@@ -50,7 +55,11 @@ a{
 }
 #contentNav li a{
     text-wrap: none;
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/jeep
+>>>>>>> origin/champy
 }
 .boutonMenu
 {
@@ -84,7 +93,11 @@ a{
     padding: .9em 2em;
     margin-top: 1.5em;
     transition: all 500ms ease;
+<<<<<<< HEAD
     font-family: Arial, sans-serif;
+=======
+    font-family: Arial;
+>>>>>>> origin/champy
     letter-spacing: 4px;
 }
 
